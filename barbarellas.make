@@ -48,6 +48,11 @@ projects[instagram_feeds][version] = "4.17"
 projects[instagram_feeds][download][url] = "https://git.drupal.org/project/instagram_feeds.git"
 projects[instagram_feeds][download][tag] = "7.x-1.1"
 
+projects[media][type] = "module"
+projects[media][download][type] = "git"
+projects[media][download][url] = "https://git.drupal.org/project/media.git"
+projects[media][download][tag] = "7.x-1.4"
+
 projects[smtp][type] = "module"
 projects[smtp][version] = "4.17"
 projects[smtp][download][url] = "https://git.drupal.org/project/smtp.git"

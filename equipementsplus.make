@@ -63,6 +63,11 @@ projects[fblikebutton][download][type] = "git"
 projects[fblikebutton][download][url] = "https://git.drupal.org/project/fblikebutton.git"
 projects[fblikebutton][download][tag] = "7.x-2.6"
 
+projects[file_entity][type] = "module"
+projects[file_entity][download][type] = "git"
+projects[file_entity][download][url] = "https://git.drupal.org/project/file_entity.git"
+projects[file_entity][download][tag] = "7.x-2.22"
+
 projects[geo_filter][download][type] = "git"
 projects[geo_filter][download][url] = "https://git.drupal.org/project/geo_filter.git"
 projects[geo_filter][download][tag] = "7.x-1.1"
@@ -84,6 +89,11 @@ projects[mailsystem][type] = "module"
 projects[mailsystem][download][type] = "git"
 projects[mailsystem][download][url] = "https://git.drupal.org/project/mailsystem.git"
 projects[mailsystem][download][tag] = "7.x-2.35"
+
+projects[media][type] = "module"
+projects[media][download][type] = "git"
+projects[media][download][url] = "https://git.drupal.org/project/media.git"
+projects[media][download][tag] = "7.x-2.20"
 
 projects[mimemail][type] = "module"
 projects[mimemail][download][type] = "git"

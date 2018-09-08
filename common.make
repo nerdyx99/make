@@ -70,11 +70,6 @@ projects[devel][download][type] = "git"
 projects[devel][download][url] = "https://git.drupal.org/project/devel.git"
 projects[devel][download][tag] = "7.x-1.6"
 
-projects[file_entity][type] = "module"
-projects[file_entity][download][type] = "git"
-projects[file_entity][download][url] = "https://git.drupal.org/project/file_entity.git"
-projects[file_entity][download][tag] = "7.x-2.22"
-
 projects[imce][download][type] = "git"
 projects[imce][download][url] = "https://git.drupal.org/project/imce.git"
 projects[imce][download][tag] = "7.x-1.11"
@@ -99,11 +94,6 @@ projects[link][type] = "module"
 projects[link][download][type] = "git"
 projects[link][download][url] = "https://git.drupal.org/project/link.git"
 projects[link][download][tag] = "7.x-1.5"
-
-projects[media][type] = "module"
-projects[media][download][type] = "git"
-projects[media][download][url] = "https://git.drupal.org/project/media.git"
-projects[media][download][tag] = "7.x-2.20"
 
 projects[metatag][type] = "module"
 projects[metatag][download][type] = "git"
