@@ -30,37 +30,31 @@ includes[common] = "common.make"
 
 projects[contact_attach][type] = "module"
 projects[contact_attach][version] = "4.17"
-projects[contact_attach][subdir] = "contrib"
 projects[contact_attach][download][url] = "https://git.drupal.org/project/contact_attach.git"
 projects[contact_attach][download][tag] = "7.x-1.0-rc1"
 
 projects[contact_form_blocks][type] = "module"
 projects[contact_form_blocks][version] = "4.17"
-projects[contact_form_blocks][subdir] = "contrib"
 projects[contact_form_blocks][download][url] = "https://git.drupal.org/project/contact_form_blocks.git"
 projects[contact_form_blocks][download][branch] = "7.x-1.x"
 
 projects[instagram_block][type] = "module"
 projects[instagram_block][version] = "4.17"
-projects[instagram_block][subdir] = "contrib"
 projects[instagram_block][download][url] = "https://git.drupal.org/project/instagram_block.git"
 projects[instagram_block][download][tag] = "7.x-1.6"
 
 projects[instagram_feeds][type] = "module"
 projects[instagram_feeds][version] = "4.17"
-projects[instagram_feeds][subdir] = "contrib"
 projects[instagram_feeds][download][url] = "https://git.drupal.org/project/instagram_feeds.git"
 projects[instagram_feeds][download][tag] = "7.x-1.1"
 
 projects[smtp][type] = "module"
 projects[smtp][version] = "4.17"
-projects[smtp][subdir] = "contrib"
 projects[smtp][download][url] = "https://git.drupal.org/project/smtp.git"
 projects[smtp][download][tag] = "7.x-1.7"
 
 projects[weight][type] = "module"
 projects[weight][version] = "4.17"
-projects[weight][subdir] = "contrib"
 projects[weight][download][url] = "https://git.drupal.org/project/weight.git"
 projects[weight][download][tag] = "7.x-3.1"
 
