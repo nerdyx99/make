@@ -68,6 +68,11 @@ projects[file_entity][download][type] = "git"
 projects[file_entity][download][url] = "https://git.drupal.org/project/file_entity.git"
 projects[file_entity][download][tag] = "7.x-2.22"
 
+projects[field_collection][type] = "module"
+projects[field_collection][download][type] = "git"
+projects[field_collection][download][url] = "https://git.drupal.org/project/field_collection.git"
+projects[field_collection][download][tag] = "7.x-1.0-beta12"
+
 projects[geo_filter][download][type] = "git"
 projects[geo_filter][download][url] = "https://git.drupal.org/project/geo_filter.git"
 projects[geo_filter][download][tag] = "7.x-1.1"
