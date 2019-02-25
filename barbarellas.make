@@ -54,12 +54,12 @@ projects[media][download][url] = "https://git.drupal.org/project/media.git"
 projects[media][download][tag] = "7.x-1.4"
 
 projects[smtp][type] = "module"
-projects[smtp][version] = "4.17"
+projects[smtp][download][type] = "git"
 projects[smtp][download][url] = "https://git.drupal.org/project/smtp.git"
-projects[smtp][download][tag] = "7.x-4.17"
+projects[smtp][download][tag] = "7.x-1.7"
 
 projects[weight][type] = "module"
-projects[weight][version] = "4.17"
+projects[weight][version] = "3.1"
 projects[weight][download][url] = "https://git.drupal.org/project/weight.git"
 projects[weight][download][tag] = "7.x-3.1"
 

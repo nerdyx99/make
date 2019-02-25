@@ -35,14 +35,13 @@ projects[drupalcore][type] = "core"
 projects[drupalcore][download][type] = "git"
 projects[drupalcore][download][url] = "https://git.drupal.org/project/drupal.git"
 projects[drupalcore][download][tag] = "7.64"
-projects[drupalcore][patch][] = "/localdev/make/patches/drupal-7-php-7-2-2947772-31.patch"
 
 ; Various Contrib Modules
 
 projects[admin_menu][type] = "module"
 projects[admin_menu][download][type] = "git"
 projects[admin_menu][download][url] = "https://git.drupal.org/project/admin_menu.git"
-projects[admin_menu][download][branch] = "7.x-3.0-rc5"
+projects[admin_menu][download][branch] = "7.x-3.0-rc6"
 
 projects[adminimal_admin_menu][type] = "module"
 projects[adminimal_admin_menu][version] = "1.9"
