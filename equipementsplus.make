@@ -103,7 +103,7 @@ projects[media][download][tag] = "7.x-2.20"
 projects[mimemail][type] = "module"
 projects[mimemail][download][type] = "git"
 projects[mimemail][download][url] = "https://git.drupal.org/project/mimemail.git"
-projects[mimemail][download][tag] = "7.x-1.0"
+projects[mimemail][download][tag] = "7.x-1.1"
 
 projects[rules][type] = "module"
 projects[rules][download][tag] = "7.x-2.11"

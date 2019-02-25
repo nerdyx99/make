@@ -56,7 +56,7 @@ projects[media][download][tag] = "7.x-1.4"
 projects[smtp][type] = "module"
 projects[smtp][version] = "4.17"
 projects[smtp][download][url] = "https://git.drupal.org/project/smtp.git"
-projects[smtp][download][tag] = "7.x-1.7"
+projects[smtp][download][tag] = "7.x-4.17"
 
 projects[weight][type] = "module"
 projects[weight][version] = "4.17"

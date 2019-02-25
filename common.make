@@ -34,7 +34,7 @@ api = 2
 projects[drupalcore][type] = "core"
 projects[drupalcore][download][type] = "git"
 projects[drupalcore][download][url] = "https://git.drupal.org/project/drupal.git"
-projects[drupalcore][download][tag] = "7.59"
+projects[drupalcore][download][tag] = "7.64"
 projects[drupalcore][patch][] = "/localdev/make/patches/drupal-7-php-7-2-2947772-31.patch"
 
 ; Various Contrib Modules
@@ -93,7 +93,7 @@ projects[libraries][download][tag] = "7.x-2.3"
 projects[link][type] = "module"
 projects[link][download][type] = "git"
 projects[link][download][url] = "https://git.drupal.org/project/link.git"
-projects[link][download][tag] = "7.x-1.5"
+projects[link][download][tag] = "7.x-1.6"
 
 projects[metatag][type] = "module"
 projects[metatag][download][type] = "git"
