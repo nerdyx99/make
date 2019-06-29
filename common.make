@@ -34,7 +34,7 @@ api = 2
 projects[drupalcore][type] = "core"
 projects[drupalcore][download][type] = "git"
 projects[drupalcore][download][url] = "https://git.drupal.org/project/drupal.git"
-projects[drupalcore][download][tag] = "7.64"
+projects[drupalcore][download][tag] = "7.67"
 
 ; Various Contrib Modules
 
